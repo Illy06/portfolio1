@@ -48,6 +48,7 @@
           <td>Fëdor Dostoevskij</td>
           <td>Romanzo Psicologico</td>
           <td>1866</td>
+        </tr>
     </tbody>
     <tfoot>
       <tr>
